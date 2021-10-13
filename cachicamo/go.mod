@@ -1,4 +1,4 @@
-module toorcon/cachicamo
+module github.com/hex0punk/toorcon/cachicamo
 
 go 1.13
 
