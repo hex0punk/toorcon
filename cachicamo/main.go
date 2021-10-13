@@ -1,8 +1,8 @@
 package main
 
 import (
-	"authapp/helpers"
-	"authapp/visitors"
+	"cachicamo/helpers"
+	"cachicamo/visitors"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"log"

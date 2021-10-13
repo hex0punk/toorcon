@@ -1,4 +1,4 @@
-module authapp
+module cachicamo
 
 go 1.13
 
