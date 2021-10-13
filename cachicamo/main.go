@@ -1,8 +1,8 @@
 package main
 
 import (
-	"cachicamo/helpers"
-	"cachicamo/visitors"
+	"toorcon/cachicamo/helpers"
+	"toorcon/cachicamo/visitors"
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"log"

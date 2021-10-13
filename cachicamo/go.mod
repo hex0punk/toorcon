@@ -1,4 +1,4 @@
-module cachicamo
+module toorcon/cachicamo
 
 go 1.13
 
